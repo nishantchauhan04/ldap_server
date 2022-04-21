@@ -1,4 +1,4 @@
-FROM osixia/openldap
+FROM siji/openldap:2.4.42
 
 LABEL maintainer="wshihadeh.devx@gmail.com"
 
